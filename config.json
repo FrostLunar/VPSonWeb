@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"c4130adb-241b-4361-a540-5a897da166b8",
+                        "id":"de04add9-5c68-8bab-950c-08cd5320df18",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -21,19 +21,19 @@
                         "dest":3001
                     },
                     {
-                        "path":"/glitch-vless",
+                        "path":"/codesandbox-vless",
                         "dest":3002
                     },
                     {
-                        "path":"/glitch-vmess",
+                        "path":"/codesandbox-vmess",
                         "dest":3003
                     },
                     {
-                        "path":"/glitch-trojan",
+                        "path":"/codesandbox-trojan",
                         "dest":3004
                     },
                     {
-                        "path":"/glitch-shadowsocks",
+                        "path":"/codesandbox-shadowsocks",
                         "dest":3005
                     }
                 ]
@@ -49,7 +49,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"c4130adb-241b-4361-a540-5a897da166b8"
+                        "id":"de04add9-5c68-8bab-950c-08cd5320df18"
                     }
                 ],
                 "decryption":"none"
@@ -66,7 +66,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"c4130adb-241b-4361-a540-5a897da166b8",
+                        "id":"de04add9-5c68-8bab-950c-08cd5320df18",
                         "level":0
                     }
                 ],
@@ -76,7 +76,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/glitch-vless"
+                    "path":"/codesandbox-vless"
                 }
             },
             "sniffing":{
@@ -96,7 +96,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"c4130adb-241b-4361-a540-5a897da166b8",
+                        "id":"de04add9-5c68-8bab-950c-08cd5320df18",
                         "alterId":0
                     }
                 ]
@@ -104,7 +104,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/glitch-vmess"
+                    "path":"/codesandbox-vmess"
                 }
             },
             "sniffing":{
@@ -124,7 +124,7 @@
             "settings":{
                 "clients":[
                     {
-                        "password":"c4130adb-241b-4361-a540-5a897da166b8"
+                        "password":"de04add9-5c68-8bab-950c-08cd5320df18"
                     }
                 ]
             },
@@ -132,7 +132,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/glitch-trojan"
+                    "path":"/codesandbox-trojan"
                 }
             },
             "sniffing":{
@@ -153,7 +153,7 @@
                 "clients":[
                     {
                         "method":"chacha20-ietf-poly1305",
-                        "password":"c4130adb-241b-4361-a540-5a897da166b8"
+                        "password":"de04add9-5c68-8bab-950c-08cd5320df18"
                     }
                 ],
                 "decryption":"none"
@@ -161,7 +161,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/glitch-shadowsocks"
+                    "path":"/codesandbox-shadowsocks"
                 }
             },
             "sniffing":{
