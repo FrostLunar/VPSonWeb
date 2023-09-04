@@ -1,32 +1,32 @@
 *******************************************
 V2-rayN:
 ----------------------------
-vless://de04add9-5c68-8bab-950c-08cd5320df18@172.67.65.34:443?encryption=none&security=tls&sni=retention-mtv-vista-comparison.trycloudflare.com&type=ws&host=retention-mtv-vista-comparison.trycloudflare.com&path=%2Fcodesandbox-vless?ed=2048#Argo-Vless
+vless://c4130adb-241b-4361-a540-5a897da166b8@icook.hk:443?encryption=none&security=tls&sni=alter-alumni-garbage-chem.trycloudflare.com&type=ws&host=alter-alumni-garbage-chem.trycloudflare.com&path=%2Fglitch-vless?ed=2048#Argo-Vless
 ----------------------------
-vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tVm1lc3MiLCAiYWRkIjogImljb29rLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAicmV0ZW50aW9uLW10di12aXN0YS1jb21wYXJpc29uLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2NvZGVzYW5kYm94LXZtZXNzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAicmV0ZW50aW9uLW10di12aXN0YS1jb21wYXJpc29uLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiB9Cg==
+vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tVm1lc3MiLCAiYWRkIjogImljb29rLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImM0MTMwYWRiLTI0MWItNDM2MS1hNTQwLTVhODk3ZGExNjZiOCIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYWx0ZXItYWx1bW5pLWdhcmJhZ2UtY2hlbS50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi9nbGl0Y2gtdm1lc3M/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhbHRlci1hbHVtbmktZ2FyYmFnZS1jaGVtLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiB9Cg==
 ----------------------------
-trojan://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?security=tls&sni=retention-mtv-vista-comparison.trycloudflare.com&type=ws&host=retention-mtv-vista-comparison.trycloudflare.com&path=%2Fcodesandbox-trojan?ed=2048#Argo-Trojan
+trojan://c4130adb-241b-4361-a540-5a897da166b8@icook.hk:443?security=tls&sni=alter-alumni-garbage-chem.trycloudflare.com&type=ws&host=alter-alumni-garbage-chem.trycloudflare.com&path=%2Fglitch-trojan?ed=2048#Argo-Trojan
 ----------------------------
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==@icook.hk:443#Argo-Shadowsocks
-由于该软件导出的链接不全，请自行处理如下: 传输协议: WS ， 伪装域名: retention-mtv-vista-comparison.trycloudflare.com ，路径: /codesandbox-shadowsocks?ed=2048 ， 传输层安全: tls ， sni: retention-mtv-vista-comparison.trycloudflare.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDEzMGFkYi0yNDFiLTQzNjEtYTU0MC01YTg5N2RhMTY2YjhAaWNvb2suaGs6NDQzCg==@icook.hk:443#Argo-Shadowsocks
+由于该软件导出的链接不全，请自行处理如下: 传输协议: WS ， 伪装域名: alter-alumni-garbage-chem.trycloudflare.com ，路径: /glitch-shadowsocks?ed=2048 ， 传输层安全: tls ， sni: alter-alumni-garbage-chem.trycloudflare.com
 *******************************************
 小火箭:
 ----------------------------
-vless://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?encryption=none&security=tls&type=ws&host=retention-mtv-vista-comparison.trycloudflare.com&path=/codesandbox-vless?ed=2048&sni=retention-mtv-vista-comparison.trycloudflare.com#Argo-Vless
+vless://c4130adb-241b-4361-a540-5a897da166b8@icook.hk:443?encryption=none&security=tls&type=ws&host=alter-alumni-garbage-chem.trycloudflare.com&path=/glitch-vless?ed=2048&sni=alter-alumni-garbage-chem.trycloudflare.com#Argo-Vless
 ----------------------------
-vmess://bm9uZTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==?remarks=Argo-Vmess&obfsParam=retention-mtv-vista-comparison.trycloudflare.com&path=/codesandbox-vmess?ed=2048&obfs=websocket&tls=1&peer=retention-mtv-vista-comparison.trycloudflare.com&alterId=0
+vmess://bm9uZTpjNDEzMGFkYi0yNDFiLTQzNjEtYTU0MC01YTg5N2RhMTY2YjhAaWNvb2suaGs6NDQzCg==?remarks=Argo-Vmess&obfsParam=alter-alumni-garbage-chem.trycloudflare.com&path=/glitch-vmess?ed=2048&obfs=websocket&tls=1&peer=alter-alumni-garbage-chem.trycloudflare.com&alterId=0
 ----------------------------
-trojan://de04add9-5c68-8bab-950c-08cd5320df18@icook.hk:443?peer=retention-mtv-vista-comparison.trycloudflare.com&plugin=obfs-local;obfs=websocket;obfs-host=retention-mtv-vista-comparison.trycloudflare.com;obfs-uri=/codesandbox-trojan?ed=2048#Argo-Trojan
+trojan://c4130adb-241b-4361-a540-5a897da166b8@icook.hk:443?peer=alter-alumni-garbage-chem.trycloudflare.com&plugin=obfs-local;obfs=websocket;obfs-host=alter-alumni-garbage-chem.trycloudflare.com;obfs-uri=/glitch-trojan?ed=2048#Argo-Trojan
 ----------------------------
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMThAaWNvb2suaGs6NDQzCg==?obfs=wss&obfsParam=retention-mtv-vista-comparison.trycloudflare.com&path=/codesandbox-shadowsocks?ed=2048#Argo-Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDEzMGFkYi0yNDFiLTQzNjEtYTU0MC01YTg5N2RhMTY2YjhAaWNvb2suaGs6NDQzCg==?obfs=wss&obfsParam=alter-alumni-garbage-chem.trycloudflare.com&path=/glitch-shadowsocks?ed=2048#Argo-Shadowsocks
 *******************************************
 Clash:
 ----------------------------
-- {name: Argo-Vless, type: vless, server: icook.hk, port: 443, uuid: de04add9-5c68-8bab-950c-08cd5320df18, tls: true, servername: retention-mtv-vista-comparison.trycloudflare.com, skip-cert-verify: false, network: ws, ws-opts: {path: /codesandbox-vless?ed=2048, headers: { Host: retention-mtv-vista-comparison.trycloudflare.com}}, udp: true}
+- {name: Argo-Vless, type: vless, server: icook.hk, port: 443, uuid: c4130adb-241b-4361-a540-5a897da166b8, tls: true, servername: alter-alumni-garbage-chem.trycloudflare.com, skip-cert-verify: false, network: ws, ws-opts: {path: /glitch-vless?ed=2048, headers: { Host: alter-alumni-garbage-chem.trycloudflare.com}}, udp: true}
 ----------------------------
-- {name: Argo-Vmess, type: vmess, server: icook.hk, port: 443, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: none, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /codesandbox-vmess?ed=2048, headers: {Host: retention-mtv-vista-comparison.trycloudflare.com}}, udp: true}
+- {name: Argo-Vmess, type: vmess, server: icook.hk, port: 443, uuid: c4130adb-241b-4361-a540-5a897da166b8, alterId: 0, cipher: none, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /glitch-vmess?ed=2048, headers: {Host: alter-alumni-garbage-chem.trycloudflare.com}}, udp: true}
 ----------------------------
-- {name: Argo-Trojan, type: trojan, server: icook.hk, port: 443, password: de04add9-5c68-8bab-950c-08cd5320df18, udp: true, tls: true, sni: retention-mtv-vista-comparison.trycloudflare.com, skip-cert-verify: false, network: ws, ws-opts: { path: /codesandbox-trojan?ed=2048, headers: { Host: retention-mtv-vista-comparison.trycloudflare.com } } }
+- {name: Argo-Trojan, type: trojan, server: icook.hk, port: 443, password: c4130adb-241b-4361-a540-5a897da166b8, udp: true, tls: true, sni: alter-alumni-garbage-chem.trycloudflare.com, skip-cert-verify: false, network: ws, ws-opts: { path: /glitch-trojan?ed=2048, headers: { Host: alter-alumni-garbage-chem.trycloudflare.com } } }
 ----------------------------
-- {name: Argo-Shadowsocks, type: ss, server: icook.hk, port: 443, cipher: chacha20-ietf-poly1305, password: de04add9-5c68-8bab-950c-08cd5320df18, plugin: v2ray-plugin, plugin-opts: { mode: websocket, host: retention-mtv-vista-comparison.trycloudflare.com, path: /codesandbox-shadowsocks?ed=2048, tls: true, skip-cert-verify: false, mux: false } }
+- {name: Argo-Shadowsocks, type: ss, server: icook.hk, port: 443, cipher: chacha20-ietf-poly1305, password: c4130adb-241b-4361-a540-5a897da166b8, plugin: v2ray-plugin, plugin-opts: { mode: websocket, host: alter-alumni-garbage-chem.trycloudflare.com, path: /glitch-shadowsocks?ed=2048, tls: true, skip-cert-verify: false, mux: false } }
 *******************************************
